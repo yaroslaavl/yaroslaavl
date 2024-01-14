@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="100"/>
 </div>
 <h1 align="center">
-                      hey there
+  My name is Yaroslav Lopatkin and I am 18 year old student
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -15,7 +15,7 @@
 
 - :seedling: Studying new technologies and consolidating previously covered material.
 
-- :zap: In my free time, I'm trying to improve my soft skills..
+- :zap: In my free time, I'm trying to improve my soft skills.
 
 :hammer_and_wrench: Languages and Tools :
 
