@@ -11,11 +11,11 @@
 </div>
 :man_technologist: About Me :
 
-- :telescope: I am a student at a Polish technical university. I began my journey as a programmer not long ago, but I am determined to make substantial progress in honing my skills and expanding my knowledge.
+-  I am a student at a Polish technical university. I began my journey as a programmer not long ago, but I am determined to make substantial progress in honing my skills and expanding my knowledge.
 
-- :seedling: Studying new technologies and consolidating previously covered material.
+-  Studying new technologies and consolidating previously covered material.
 
-- :zap: In my free time, I'm trying to improve my soft skills.
+-  In my free time, I'm trying to improve my soft skills.
 
 :hammer_and_wrench: Languages and Tools :
 
