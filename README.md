@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="SPRING" alt="SPRING" width="40" height="40"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Liquibase.svg" title="LIQUIBASE" alt="LIQUIBASE" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/f3a840e7da1e9e2e82bee2fc94b152d05d2e4c96736f4cd97d17157085722ab9/68747470733a2f2f7777772e76657261636f64652e636f6d2f73697465732f64656661756c742f66696c65732f6d6176656e2d69636f6e2e706e67" title="Apache Maven" alt="Apache Maven" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354051/maven.svg" title="Apache Maven" alt="Apache Maven" width="40" height="40"/>&nbsp;
   <img src="https://github.com/user-attachments/assets/205dafc2-9308-4ce6-b881-287d427d1526" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
