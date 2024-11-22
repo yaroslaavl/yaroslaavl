@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" width="100"/>
-</div>
+
 <h1 align="center">
   My name is Yaroslav Lopatkin and I am a 19 year old student
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <div align="center">
