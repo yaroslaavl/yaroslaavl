@@ -1,19 +1,4 @@
 
-<h1 align="center">
-  My name is Yaroslav Lopatkin and I am a 19 year old student
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="300"/>
-</div>
-:man_technologist: About Me :
-
--  I am a student at a Polish technical university. I began my journey as a programmer not long ago, but I am determined to make substantial progress in honing my skills and expanding my knowledge.
-
--  Studying new technologies and consolidating previously covered material.
-
--  In my free time, I'm trying to improve my soft skills.
-
 :hammer_and_wrench: Languages and Tools :
 
 <div>
